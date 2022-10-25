@@ -6,8 +6,8 @@ Introduzione al Linguaggio di Programmazione - JavaScript
 
 
 - SE lo scanner è acceso:
-    TRUE:
-    FALSE:
+    TRUE: Preparo il documento
+    FALSE: Accendo lo scanner
 
 - MENTRE i documenti (x) sono > 0
     - Prendo il documento
@@ -34,4 +34,3 @@ Introduzione al Linguaggio di Programmazione - JavaScript
     SE documenti (x) sono = 0
         TRUE: Spegni scanner
         FALSE: Torna a MENTRE
-        
